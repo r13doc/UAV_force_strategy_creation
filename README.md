@@ -2,6 +2,6 @@ Algorithm creation a new transitional corps with implementation neural network(A
 
 Efficiency UAV as a main corps:
 
-1. Cost
+1. Price
 
 to be continued....
