@@ -5,4 +5,5 @@ Efficiency UAV as a main corps:
 1. Price
 2. Operation algorithm AI
 3. Technical assignment
+4. 
 to be continued....
