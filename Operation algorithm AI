@@ -5,5 +5,6 @@ Objectives Operational algorithm for controllin thousands  combat drones(UAV):
 Change places it is like when action from cell in network graph move to another cell in different algorithms.
 It may be three - five main controling UAV objects, say:
   we have 1000 combat drones and separate it to threee combat groups with three leaders(main obgects UAV) they control own groups :
-  - first group it is most higher point more then 30000 km, task for this group it controlling stratosphere and a cosmic space,
-  defence from enemy's high-design military objects, radar intelligence, passive radars and others 
+  - first group it is most higher point more then 30000 km, task for this group it is controlling stratosphere and a cosmic space,
+  defence from enemy's high-design military objects, radar intelligence, passive radars and others...
+  - second (middle) group
