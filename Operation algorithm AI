@@ -2,7 +2,7 @@ There are many types of Artifician intelligence. And honestly it is only pattern
 
 Objectives Operational algorithm for controllin thousands  combat drones(UAV):
 
-- all UAV objects should controlling several main UAV  and it can change places when it need.
+- all UAV objects control several main UAV and it can change places when it need.
 Change places it is like when action from cell in network graph move to another cell in different algorithms.
 It may be three - five main controling UAV objects, say:
   we have 1000 combat drones and separate it to threee combat groups with three leaders(main obgects UAV) they control own groups :
