@@ -1,14 +1,17 @@
-There are many types of Artifician intelligence. And honestly it is only patterns. And humanity did not create a real AI like human being.
-
-Objectives Operational algorithm for controllin thousands  combat drones(UAV):
+Objectives Operational algorithm for controllin thousand  combat drones(UAV):
 
 - all UAV objects control several main UAV and it can change places when it need.
-Change places it is like when action from cell in network graph move to another cell in different algorithms.
 It may be three - five main controling UAV objects, say:
   we have 1000 combat drones and separate it to threee combat groups with three leaders(main obgects UAV) they control own groups :
   - first group - it is most higher flight point, task for this group it is controlling stratosphere and a cosmic space, intelligence option,
   defence and destruction from enemy's high-design military objects, radar intelligence, passive radars and others potential risks in combat operations...
   - second (middle) group it is main group and have a mission for destruction an enemy force on the earth and in the sky
   - third group it is group that have intelligence option, defence from earth, sky enemy attacks.
-  Tehere are various flight height for this groups,
+  Tehere are various flight height for this groups: first group - the higher (top) flight point,
+                                                    second(middle) group - the average flight point,
+                                                    third group - bottom flight point.
+
+- there are 100 combat drones and location of this group specify the main force command. It is еру reserve group.
+
+- all three groups disposed in staggered-order
   
