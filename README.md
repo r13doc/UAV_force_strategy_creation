@@ -1,4 +1,5 @@
-Algorithm creation a new transitional corps with implementation AI system as main operator for controling all activity around and analyze it.
+Algorithm creation a new transitional corps with implementation AI system as main operator in military operations,
+for controling all activity around, analyze it, destroing enemy troops.
 
 Efficiency UAV as a main corps:
 
